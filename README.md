@@ -39,7 +39,12 @@
 
 * * *
 
- [![](https://github-readme-stats.vercel.app/api?username=ana-genova&show_icons=true&theme=dark&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-genova&layout=compact&langs_count=7&theme=dark)](github.com/ana-genova)
+<div> 
+    <a href="https://github.com/ana-genova">
+        <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ana-genova&show_icons=true&icon_color=ffaa00&theme=city_lights&hide_border=true&border_radius=2&include_all_commits=true&count_private=true"/>
+        <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-genova&theme=city_lights&hide_border=true&border_radius=2&layout=compact&langs_count=7"/>
+    </a>
+</div>
 
 * * *
 
