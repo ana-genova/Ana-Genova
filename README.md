@@ -39,14 +39,11 @@
 
 * * *
 
-<div> 
-    <a href="https://github.com/ana-genova">
-        <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ana-genova&show_icons=true&icon_color=ffaa00&theme=city_lights&hide_border=true&border_radius=2&include_all_commits=true&count_private=true"/>
-        <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-genova&theme=city_lights&hide_border=true&border_radius=2&layout=compact&langs_count=7"/>
-    </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-genova&show_icons=true&icon_color=ffaa00&theme=city_lights&hide_border=true&border_radius=2)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-genova&show_icons=true&icon_color=ffaa00&theme=city_lights&hide_border=true&border_radius=2)
 
 * * *
+
 
 *   Linkedin: [https://www.linkedin.com/in/ana-genova/](https://www.linkedin.com/in/ana-genova/)
 *   Email: anagenova9@gmail.com
