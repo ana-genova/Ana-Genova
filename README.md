@@ -34,13 +34,15 @@
              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
         <img alt="Trello" title="Trello" height="30" width="40"
              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+        <img alt="Java" title="Java" height="30" width="40"
+             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+          
     </div>
 </div>
 
 * * *
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-genova&show_icons=true&icon_color=ffaa00&theme=city_lights&hide_border=true&border_radius=2)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-genova&show_icons=true&icon_color=ffaa00&theme=city_lights&hide_border=true&border_radius=2)
 
 * * *
 
